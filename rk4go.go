@@ -1,4 +1,4 @@
-package github.com/golang-rk4go/rk4go
+package rk4go
 import (
     "fmt"
     "os"
